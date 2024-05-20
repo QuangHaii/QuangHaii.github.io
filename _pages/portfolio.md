@@ -21,15 +21,17 @@ toc_icon: "bookmark"
 Courses: Object-Oriented Programming, Data Structures & Algorithms, Probability & Statistics, User Interface Design, MVC (Model-View-Controller) Architecture.
 
 ### Skills
+English: TOEIC Speaking - Writing 880, Standard English communication
+
 Languages: C/C++, C# ,Dart, Python, Java, JavaScript
 
-Tools: Git/GitHub, Unix Shell, VS Code, IntelliJ, Figma
+Tools: Git/GitHub, Unix Shell, VS Code, Eclipse, IntelliJ, Figma
 
-Frameworks: React, Flutter, Jetpack compose, .Net Framework
+Frameworks:  JPA Hibernate, ASP.Net Core, Flutter, Jetpack, ReactJS
 
-Operating Systems: Linux
+Operating Systems: Windows, Linux
 
-Databases: SQL Server, Firebase
+Databases: MS SQL Server, My SQL, Firebase
 
 ### Projects
 [Food Ordering App](https://github.com/YangTris/Java-Food-Ordering-App) 
@@ -40,7 +42,7 @@ Databases: SQL Server, Firebase
 | **Team size**         |  3 members |
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  Feb 2024 - Present |
-| **My responsibility**      | • Payment with VnPay  <br> • Rest API with Cloud Firestore <br> • Multi-factor Authentication <br> • Cloud Messaging <br> |
+| **My responsibility**      | • Implemented Google Maps API and Direction API  <br> • Rest API with Cloud Firestore <br> • Multi-factor Authentication <br> 
 | **Learning from project** | • Learned how to use Java in conjunction with Cloud Firestore database and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.tcom/YangTris/Order-App)        |
 
@@ -60,14 +62,14 @@ Databases: SQL Server, Firebase
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/maivudhsp/DKTS_SDH)        |
 
 
-[Oral Literature HCMUE](https://github.com/maivudhsp/TNVHDG)  
+[Clothes E-Commerce Website](https://github.com/QuangHaii/QLSHop)  
 
-|**Description project**|  A collaborative scientific research project with students from HCMUE aims to preserve and enhance the Vietnamese language. |
+|**Description project**| A website for selling clothes online and controlling the income outcome efficiently. |
 |---------------------|----------------|
-| **Technologies used** | C#, HTML/CSS, JavaScript, JQuery, .Net Framework, Git, Visual Studio |
-| **Team size**         |  3 members |
+| **Technologies used** | Java Servlet, Hibernate, HTML/CSS, JavaScript, JQuery, Git, Eclipse |
+| **Team size**         |  2 members |
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  May 2023 - Jul.2023 |
-| **My responsibility**      | • Search, Sort, Filter <br> • Pagination <br> • CRUD Admin API|
-| **Learning from project** | • Organize MVC architecture <br> • Solved problems relating to asynchronous tasks |
-| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Order-App)        |
+| **My responsibility**      | • CRUD for Product, User, Order, Payment <br> • Search, Sort, Pagination <br> • Sending Email
+| **Learning from project** | • Organize MVC architecture <br> • Built a project using JPA Hibernate and Tomcat |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/QuangHaii/QLSHop)       |
