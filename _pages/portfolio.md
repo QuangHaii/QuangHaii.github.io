@@ -71,5 +71,5 @@ Databases: MS SQL Server, My SQL, Firebase
 | **Position**         |   BackEnd Developer |
 | **Time start - Time end**         |  May 2023 - Jul.2023 |
 | **My responsibility**      | • CRUD for Product, User, Order, Payment <br> • Search, Sort, Pagination <br> • Sending Email
-| **Learning from project** | • Organize MVC architecture <br> • Built a project using JPA Hibernate and Tomcat |
+| **Learning from project** | • Organize MVC architecture <br> • Built a project using JPA Hibernate and Tomcat <br> • Learned to implement MVC architecture|
 | **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/QuangHaii/QLSHop)       |
