@@ -13,20 +13,20 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: YangTris
+title: QuangHaii
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 #twitter_username: username
-github_username: YangTris
+github_username: QuangHaii
 minimal_mistakes_skin: default
 search: true
 breadcrumbs: true
-title                    : "YangTris" # "Site Title"
+title                    : "QuangHaii" # "Site Title"
 title_separator          : "-"
-description              : "YangTris's Portfolio"
+description              : "QuangHaii's Portfolio"
 #baseurl                  : "/portfolio"
 
 
@@ -65,22 +65,22 @@ plugins:
   - jekyll-archives
 
 author:
-  name   : "Duong Van Tri"
+  name   : "Lai Quang Hai"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I am a self-disciplined and hardworking student seeking a workplace to contribute to company, to learn and to grow as a professional. Dedicated and committed to working hard and further the mission of company."
   links:
     - label: "Resume"
       icon: "fas fa-fw fa-link"
-      url: "/assets/images/DuongVanTri_Resume.pdf" 
+      url: "/assets/images/Resume.pdf" 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YangTris"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yangtris/"
+      url: "https://github.com/QuangHaii"
+#    - label: "Linkedin"
+#     icon: "fab fa-fw fa-linkedin"
+#      url: "https://www.linkedin.com/in/QuangHaii/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:id.dvantri911@gmail.com"
+      url: "mailto:hainoob2002@gmail.com"
       
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
@@ -96,13 +96,13 @@ footer:
 #      url: "https://www.facebook.com/vantri911/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/YangTris"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/yangtris/"
+      url: "https://github.com/QuangHaii"
+    # - label: "Linkedin"
+    #   icon: "fab fa-fw fa-linkedin"
+    #   url: "https://www.linkedin.com/in/yangtris/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:id.dvantri911@gmail.com"
+      url: "mailto:hainoob2002@gmail.com"
 
 defaults:
   # _posts
