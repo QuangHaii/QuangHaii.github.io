@@ -6,7 +6,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
 
-*Updated: 03/03/2024*
+*Updated: 20/05/2024*
 
 
 ### Career Objective
