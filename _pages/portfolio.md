@@ -44,7 +44,7 @@ Databases: MS SQL Server, My SQL, Firebase
 | **Time start - Time end**         |  Feb 2024 - Present |
 | **My responsibility**      | • Implemented Google Maps API and Direction API  <br> • Created Restful API using Spring Boot and Cloud Firestore <br> • Made API Calls using Retrofit2 <br> 
 | **Learning from project** | • Learned how to use Java in conjunction with Cloud Firestore database and APIs <br> • Working with server side (JSON, REST API) <br> • Integrating third-party libraries (Firebase Notification, Facebook Sdk, Google Maps, ...)  |
-| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.tcom/YangTris/Order-App)        |
+| **Github**              |        [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/YangTris/Java-Food-Ordering-App)        |
 
 
 
